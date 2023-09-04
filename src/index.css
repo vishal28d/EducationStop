@@ -50,10 +50,7 @@ h1 {
 .card{
   width: 25rem;
  display: inline-flex;
- position: relative;
- right: 5%;
- left: 5%;
- margin-right: 5%;
+
 margin-left: 60px;
 margin-top: 20px;
 box-shadow: 0 12px 48px 0px rgba(36, 37, 38, 0.2);
